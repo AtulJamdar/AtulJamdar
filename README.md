@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Hello!%20I'm%20Atul%20Jamdar&fontSize=60" />
-  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndndxdmJwdGR6Zmt1bnI3Zmx3eXBtZWJyeHoxbzF3dW84NHNmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/duNow798Vl3SnK6j0B/giphy.gif" width="350px"/>
-</div>
 
 # 👋 Hello! I'm Atul Jamdar 🚀
 
